@@ -1,1 +1,12 @@
 model-pitches-rv.csv filter=lfs diff=lfs merge=lfs -text
+“mlb-pitches2022.csv” filter=lfs diff=lfs merge=lfs -text
+“mlb-pitches2022
+'
+ filter=lfs diff=lfs merge=lfs -text
+“mlb-pitches2022.csv
+mlb-pitches22.csv filter=lfs diff=lfs merge=lfs -text
+“mlb-pitches22.csv
+“data/mlb-pitches2022.csv” filter=lfs diff=lfs merge=lfs -text
+mlb-pitches2022.csv” filter=lfs diff=lfs merge=lfs -text
+mlb-pitches2022.csv filter=lfs diff=lfs merge=lfs -text
+data/mlb-pitches2022.csv filter=lfs diff=lfs merge=lfs -text
